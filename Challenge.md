@@ -1,5 +1,3 @@
-# The_Power_of_Plots
-Matplotlib Homework repository
 # Matplotlib Homework - The Power of Plots
 
 ## Background
